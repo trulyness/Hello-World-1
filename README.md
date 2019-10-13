@@ -104,6 +104,8 @@ Erlang is a general purpose or you might say a functional programming language a
 
 - [x] **Fortran**
 
+Fortran, derived from Formula Translation, is a general purpose,compiled imperative programming language that is especially suited suited to numeric computation and scientific computing. Fortran was originally developed by a team at IBM in 1957 for scientific calculations. Later developments made it into a high level programming language.
+
 - [x] **Go**
 
 Go is a programming language created in 2009 by Google employees Robert Griesemer, Rob Pike, and Ken Thompson. Go is a statically typed, compiled language in the tradition of C, with memory safety, garbage collection, structural typing, and CSP-style concurrency.
@@ -130,6 +132,8 @@ JavaScript, often abbreviated as JS, is a high-level, interpreted programming la
 
 - [x] **Julia**
 
+Julia is a high-level, high-performance, dynamic programming language. While it is a general purpose language and can be used to write any application, many of its features are well-suited for high-performance numerical analysis and computational science.Julia uses multiple dispatch as a paradigm, making it easy to express many object-oriented and functional programming patterns. The standard library provides asynchronous I/O, process control, logging, profiling, a package manager, and more.
+
 - [x] **Juliar**
 
 - [x] **Kotlin**
@@ -141,6 +145,8 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 - [x] **Lua**
 
 - [x] **Matlab**
+
+MATLAB (matrix laboratory) is a multi-paradigm numerical computing environment and proprietary programming language developed by MathWorks. MATLAB allows matrix manipulations, plotting of functions and data, implementation of algorithms, creation of user interfaces, and interfacing with programs written in other languages, including C, C++, C#, Java, Fortran and Python.
 
 - [x] **Nim**
 
